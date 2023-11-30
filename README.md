@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jony</h1>
 <h3 align="center">Um dev apaixonado por Python, machine learning, data analysis and science.</h3>
 
-- 🔭 Eu estou trabalhando com [Análise de dados]
+- 🔭 Eu estou trabalhando com Análise de dados
 
 - 🌱 Atualmente aprendendo sobre **Deep learning, visualização de dados, power BI, python**
 
