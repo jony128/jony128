@@ -1,11 +1,11 @@
 <h1 align="center">Opa 👋, Eu sou o Jony</h1>
-<h3 align="center">Um Dev apaixonado por Backend, Data analysis, Pentest e Python</h3>
+<h3 align="center">Um dev focado em Back end, Data analysis e Pentest</h3>
 
 - 🔭 Eu estou trabalhando com Análise de dados
 
 - 🌱 Atualmente aprendendo sobre **NextJS, NodeJS, TypeScript e React**
 
-- 💬 Me pergunte sobre **SQL, Hacking, Linux, cryptograph e A.I**
+- 💬 Me pergunte sobre **SQL, Hacking, Linux, cryptograph, Data Modeling e A.I**
 
 - 📄 Me conheça melhor por aqui [joaovitoramorim.tech](https://joaovitoramorim.tech)
 
