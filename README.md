@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, Eu sou o Jony</h1>
-<h3 align="center">Um dev focado em Back end, Data analysis e Pentest</h3>
+<h3 align="center">Um dev focado em Backend, Data analysis e Pentest</h3>
 
 - 🔭 Eu estou trabalhando com Análise de dados
 
