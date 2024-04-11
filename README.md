@@ -1,9 +1,9 @@
 <h1 align="center">Opa 👋, Eu sou o Jony</h1>
-<h3 align="center">Um dev focado em Backend, Data analysis e Pentest</h3>
+<h3 align="center">Um dev focado em Backend e Data analysis</h3>
 
 - 🔭 Eu estou trabalhando com Análise de dados
 
-- 🌱 Atualmente aprendendo sobre **NextJS, NodeJS, TypeScript e React**
+- 🌱 Atualmente aprendendo sobre **Machine Learning, Criptografia, Python, Data**
 
 - 💬 Me pergunte sobre **SQL, Hacking, Linux, cryptograph, Data Modeling e A.I**
 
