@@ -1,7 +1,7 @@
 <h1 align="center">Opa 👋, Eu sou o Jony</h1>
 <h3 align="center">Um dev focado em Backend e Data analysis</h3>
 
-- 🔭 Eu estou trabalhando com Análise de dados
+- 🔭 Trabalhando com Análise de dados em Itau Unibanco
 
 - 🌱 Atualmente aprendendo sobre **Machine Learning, Criptografia, Python, Data**
 
