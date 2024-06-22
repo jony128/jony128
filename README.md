@@ -1,7 +1,7 @@
 <h1 align="center">Opa 👋, Eu sou o Jony</h1>
 <h3 align="center">Um dev focado em ML e Data analysis</h3>
 
-- 🔭 Trabalhando com Análise de dados em Itau Unibanco
+- 🔭 Trabalhando com Análise de dados em [Itau Unibanco](https://www.itau.com.br)
 
 - 🌱 Atualmente aprendendo sobre **Machine Learning, Criptografia, Python, Data**
 
