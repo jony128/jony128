@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **SQL, Hacking, Linux, cryptograph, Data Modeling e A.I**
 
-- 📄 Me conheça melhor por aqui [joaovitoramorim.tech](https://joaovitoramorim.tech)
+- 📄 Me conheça melhor por aqui [joaovitoramorim.tech](https://django-port.vercel.app)
 
 
 <h3 align="left">Languages and Tools:</h3>
